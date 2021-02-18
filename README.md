@@ -1,7 +1,7 @@
 👋 Hallo, I’m @nillalol
 
 #### :star: who I am
-- C++ Game Developer & Software Engineer
+- C/C++ Game Developer & Software Engineer
 - Pixel Artist
 - part time magician
 - linguist
