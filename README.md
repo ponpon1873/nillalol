@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @nillalol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hallo, I’m @nillalol
+
+##### :star: who I am
+- C++ Game Developer & Software Engineer
+- Pixel Artist
+- part time magician
+- linguist
 
 <!---
 nillalol/nillalol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
