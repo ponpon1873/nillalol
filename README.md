@@ -1,4 +1,4 @@
-👋 Hallo, I’m @bee0x1
+👋 Hello, I’m @bee0x1
 
 VR Hardware Enthusiast & C/C++ Developer
 
